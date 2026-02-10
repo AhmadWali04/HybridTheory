@@ -8,9 +8,9 @@ This project is inspired by the album "Hybrid Theory" by Linkin Park. Rest in Pe
 The documentation for this project was written in a VS code extension that makes MD & Latex easier to write, however there are slight exporting issues with Github's version of MD. Please see  /Docs for a cleaner formatted version of the documentation in PDF form. There is also a slideshow that explains what this project is, in a lower level conceptual form for those that care less about the math.
 
 
-![Alt text for the image](./Docs/Ippo_X_Metora.png")
-![Alt text for the image](./Docs/Kengan_X_Metallica.png")
-![Alt text for the image](./Docs/Vagabond_x_Nujabes.png")
+![Alt text for the image](./Docs/Ippo_X_Metora.png)
+![Alt text for the image](./Docs/Kengan_X_Metallica.png)
+![Alt text for the image](./Docs/Vagabond_x_Nujabes.png)
 
 
 
