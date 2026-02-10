@@ -1,0 +1,10 @@
+matplotlib
+numpy
+opencv-python
+pillow
+plotly
+python-dotenv
+scikit-learn
+scipy
+tensorboard
+torch
