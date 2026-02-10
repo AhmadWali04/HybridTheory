@@ -1,16 +1,16 @@
 # HYBRID THEORY
-![Alt text for the image](Docs/hybridTheory.jpg")
+![Alt text for the image](./Docs/hybridTheory.jpg")
 
 An AI-powered design tool that bridges Music, Art, and Code. Hybrid Theory takes any image, triangulates it using Delaunay triangulation, and recolors it using a neural network trained on the color palette of a second image (like an album cover). The original inspiration for this project came from when i was reading Spiderman comics and listening to Heavy Metal and thought "Wow, I wish I could fuse Spiderman & Linkin Park".
 
 This project is inspired by the album "Hybrid Theory" by Linkin Park. Rest in Peace Chester Bennington, your work continues to inspire millions of people daily.
 
-The documentation for this project was written in a VS code extension that makes MD & Latex easier to write, however there are slight exporting issues with Github's version of MD. Please see  /Docs&Images for a cleaner formatted version of the documentation in PDF form. There is also a slideshow that explains what this project is, in a lower level conceptual form for those that care less about the math.
+The documentation for this project was written in a VS code extension that makes MD & Latex easier to write, however there are slight exporting issues with Github's version of MD. Please see  /Docs for a cleaner formatted version of the documentation in PDF form. There is also a slideshow that explains what this project is, in a lower level conceptual form for those that care less about the math.
 
 
-![Alt text for the image](Docs/Ippo_X_Metora.png")
-![Alt text for the image](Docs/Kengan_X_Metallica.png")
-![Alt text for the image](Docs/Vagabond_x_Nujabes.png")
+![Alt text for the image](./Docs/Ippo_X_Metora.png")
+![Alt text for the image](./Docs/Kengan_X_Metallica.png")
+![Alt text for the image](./Docs/Vagabond_x_Nujabes.png")
 
 
 
