@@ -1,5 +1,5 @@
 # HYBRID THEORY
-![Alt text for the image](./Docs/hybridTheory.jpg")
+![Alt text for the image](./Docs/hybridTheory.jpg)
 
 An AI-powered design tool that bridges Music, Art, and Code. Hybrid Theory takes any image, triangulates it using Delaunay triangulation, and recolors it using a neural network trained on the color palette of a second image (like an album cover). The original inspiration for this project came from when i was reading Spiderman comics and listening to Heavy Metal and thought "Wow, I wish I could fuse Spiderman & Linkin Park".
 
